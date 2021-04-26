@@ -1,5 +1,4 @@
 import React from "react";
-import "./style.css";
 import { Button } from "@progress/kendo-react-buttons";
 import { Form, Field, FormElement } from "@progress/kendo-react-form";
 import { Error } from "@progress/kendo-react-labels";
