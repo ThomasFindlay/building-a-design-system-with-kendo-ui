@@ -1,0 +1,22 @@
+// Common
+$font-size: 18px;
+$primary: #44e713;
+$secondary: #333333;
+$border-radius: 5px;
+
+// Headings
+$h1-font-size: 30px;
+$h2-font-size: 26px;
+$h3-font-size: 22px;
+$h4-font-size: 18px;
+$h5-font-size: 18px;
+$h6-font-size: 18px;
+
+// Button
+
+$button-border-width: 3px;
+$button-font-size: 14px;
+$button-padding-x: 12px;
+$button-padding-y: 8px;
+
+@import "~@progress/kendo-theme-default/dist/all.scss";

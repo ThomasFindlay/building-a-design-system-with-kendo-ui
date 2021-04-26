@@ -1,0 +1,27 @@
+{
+  "name": "react",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@progress/kendo-drawing": "^1.5.12",
+    "@progress/kendo-licensing": "^1.0.1",
+    "@progress/kendo-react-animation": "^4.0.0",
+    "@progress/kendo-react-buttons": "^4.5.0",
+    "@progress/kendo-react-form": "^4.5.0",
+    "@progress/kendo-react-inputs": "^4.5.0",
+    "@progress/kendo-react-intl": "^4.0.0",
+    "@progress/kendo-react-labels": "^4.5.0",
+    "@progress/kendo-theme-default": "^4.37.0",
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "react-scripts": "latest"
+  }
+}
